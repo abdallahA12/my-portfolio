@@ -95,7 +95,7 @@ input, textarea {
 
 .btn {
     border: 1px solid red;
-    color: red;
+    color: rgb(245, 13, 13);
     padding: 10px;
     display: block;
     margin-top: 30px;
