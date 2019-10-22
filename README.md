@@ -4,7 +4,7 @@
 
 ---
 
-Anthony Ng'ang'a
+Abdallah Adam
 
 ---
 
@@ -15,7 +15,6 @@ Anthony Ng'ang'a
 ![page 1](images/page1.png)
 ![page 2](images/page2.png)
 ![page 3](images/page3.png)
-![page 4](images/page4.png)
 
 ---
 
@@ -23,7 +22,7 @@ Anthony Ng'ang'a
 
 ---
 
-This is the first version of my portfolio website. Over the next few months it will be updated and made even better.
+This is the first ever portfolio i have ever build.
 
 ---
 
@@ -31,7 +30,7 @@ This is the first version of my portfolio website. Over the next few months it w
 
 ---
 
-You can find the live site at : https://mantongash.github.io/portfolio_v1/
+You can find the live site at : https://github.com/abdallahA12/my-portfolio
 
 ---
 
@@ -39,14 +38,14 @@ You can find the live site at : https://mantongash.github.io/portfolio_v1/
 
 ---
 
-No special tooling is required for this project. You only need a text editor (e.g Visual Studio Code) to be able to run the website locally.
+You can use my website by opening it add your email then submit and youll be served.
 
 To clone the website for use locally, do the folowing:
 
 In the commandline, enter;
 
 ```bash
-git clone https://github.com/Mantongash/portfolio_v1.git
+git clone https://github.com/abdallahA12/my-portfolio
 ```
 
 ---
@@ -72,7 +71,7 @@ At the time of publishing, this website was not responsive. That's bound to chan
 
 ---
 
-For any queries or concerns, please don't hesitate to contact on ngash.anto@gmail.com.
+For any queries or concerns, please don't hesitate to contact on 0774308882
 
 ---
 
@@ -82,7 +81,7 @@ For any queries or concerns, please don't hesitate to contact on ngash.anto@gmai
 
 The MIT License (MIT)
 
-Copyright (c) 2019 Anthony Ng'ang'a
+Copyright (c) 2019 Abdallah Adam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
