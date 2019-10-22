@@ -36,3 +36,7 @@ main img:first-child {
     display: block;
     margin: 0 auto;
 }
+#projects {
+    height: 400px;
+    background-color: darkgreen;
+}
