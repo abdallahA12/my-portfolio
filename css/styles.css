@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat";
+}
+
 header nav ul {
     display: flex;
     width: 30%;
@@ -11,6 +20,13 @@ nav ul li a {
     color: crimson;
     text-transform: uppercase;
     padding: 30px;
+}
+
+main {
+    max-width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 2;
 }
 
 main img:first-child {
