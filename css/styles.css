@@ -1,0 +1,14 @@
+header nav ul {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    list-style: none;
+    color: crimson;
+}
+nav ul li a {
+    text-decoration: none;
+    display: inline-block;
+    color: crimson;
+    text-transform: uppercase;
+    padding: 30px;
+}
