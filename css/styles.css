@@ -1,6 +1,6 @@
 header nav ul {
     display: flex;
-    width: 50%;
+    width: 30%;
     margin: 0 auto;
     list-style: none;
     color: crimson;
@@ -11,4 +11,12 @@ nav ul li a {
     color: crimson;
     text-transform: uppercase;
     padding: 30px;
+}
+
+main img:first-child {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
 }
