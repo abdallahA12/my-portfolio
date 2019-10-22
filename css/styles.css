@@ -21,6 +21,11 @@ nav ul li a {
     text-transform: uppercase;
     padding: 30px;
 }
+nav ul li :hover {
+    color: black;
+    background-color: salmon;
+    
+}
 
 main {
     max-width: 60%;
@@ -37,7 +42,7 @@ main img:first-child {
     margin: 0 auto;
 }
 #projects {
-    height: 500px;
+    height: 600px;
     background: url("../images/charts-data-desk-669615.jpg") no-repeat;
 }
 .project {
