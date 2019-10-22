@@ -72,3 +72,30 @@ main img:first-child {
     color: goldenrod;
     box-shadow: 2px 2px 2px 2px black;
 }
+
+form {
+    width: 20%;
+    margin: 0 auto;
+
+}
+
+input, textarea {
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid red;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.btn {
+    border: 1px solid red;
+    color: red;
+    padding: 10px;
+    display: block;
+    margin-top: 30px;
+    width: 20%;
+    text-decoration: none;
+    font-weight: 700;
+}
+
