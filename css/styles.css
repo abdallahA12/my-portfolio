@@ -37,6 +37,38 @@ main img:first-child {
     margin: 0 auto;
 }
 #projects {
-    height: 400px;
-    background-color: darkgreen;
+    height: 500px;
+    background: url("../images/charts-data-desk-669615.jpg") no-repeat;
+}
+.project {
+    text-transform: uppercase;
+    text-align: center;
+    overflow: hidden;
+    color : darkturquoise;
+}
+.projos {
+    text-transform: uppercase;
+    text-align: center;
+    color: darkturquoise;
+}
+.project > h3 :first-child {
+    margin-top: 30px;
+    color: darkturquoise;
+}
+.box > img {
+    box-shadow: 1px 0 5px 0 dimgray;
+    
+}
+.text {
+    display: flex;
+    justify-content: center;
+}
+.words {
+    width: 450px;
+    text-align: justify;
+    line-height: 40px;
+    margin-left: 50px;
+    background-color: rgb(92, 58, 58);
+    color: goldenrod;
+    box-shadow: 2px 2px 2px 2px black;
 }
